@@ -132,7 +132,7 @@ function dibujaEllipse() {
 
   fill(0);
   textSize(10);
-  text('Clickea y arrastra para dar vida/apreta la barra espaciadora para respirar un poco', 20, windowHeight-50);
+  text('Clickea y arrastra para dar vida/apreta la barra espaciadora para respirar un poco', 200, windowHeight-50);
   
   
   let anchoellipseMic = slider.value();
